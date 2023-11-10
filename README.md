@@ -1,16 +1,4 @@
-# flutter_memo_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+|Memo List|Memo Registration・Edit|Memo search|
+|---------|----------------------|-----------|
+|<img src="https://github.com/yass97/flutter_memo_app/assets/26972766/1b98b479-7f02-47e4-85b6-87f54e813ec6" width=250 />|<img src="https://github.com/yass97/flutter_memo_app/assets/26972766/50d2b13d-1502-4702-8157-c2fb49bdcab3" width=250 />|<img src="https://github.com/yass97/flutter_memo_app/assets/26972766/b3c0050a-cc84-4ed2-9708-914dd4d1dbc0" width=250 />|
